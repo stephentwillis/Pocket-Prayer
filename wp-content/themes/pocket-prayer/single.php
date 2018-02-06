@@ -79,9 +79,11 @@
 						</div>
 						<?php } ?>
 
+						<!--
 						<div class="post-tag pull-left">
 						<?php the_tags(); ?>
 						</div>
+						-->
 					</div>
 
 				</div>

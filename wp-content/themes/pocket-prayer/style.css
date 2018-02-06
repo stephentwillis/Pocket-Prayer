@@ -1354,7 +1354,7 @@ form label.error {
             color: #323232;
         }
 
-.header-light .nav-menu ul.nav-menu-inner > li > a {
+.nav-menu ul.nav-menu-inner > li > a {
     color: rgba(255,255,255,0.60);
         background-color: #2CA8D7;
 }
@@ -1396,8 +1396,8 @@ form label.error {
     color: #fff;
 }
 
-.header.header-light .nav-menu ul.nav-menu-inner > li:hover > a,
-.header.header-light .nav-menu ul.nav-menu-inner > li > a:hover,
+.header .nav-menu ul.nav-menu-inner > li:hover > a,
+.header .nav-menu ul.nav-menu-inner > li > a:hover,
 .header.header-prepare .nav-menu ul.nav-menu-inner li a.current,
 .header.header-prepare .nav-menu ul.nav-menu-inner li.current a {
     color: #fff;
