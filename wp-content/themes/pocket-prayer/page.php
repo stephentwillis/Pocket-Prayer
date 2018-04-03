@@ -54,7 +54,8 @@
 				<?php 
 
 					$args = array(
-						'orderby' => 'date'
+						'orderby' => 'date',
+						'numberposts' => -1
 					);
 
 					$posts = get_posts($args);
